@@ -52,6 +52,7 @@ SUBDIRS =    \
 	sra-pileup      \
 	srapath         \
 	fuse            \
+    install         \
 
 # under construction
 #    ngs-pileup      \
